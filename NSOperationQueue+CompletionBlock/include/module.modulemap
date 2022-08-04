@@ -1,0 +1,5 @@
+module NSOperationQueueCompletionBlock {
+     umbrella header "NSOperationQueue+CompletionBlock/NSOperationQueue+CompletionBlock.h"
+     export *
+     module * { export * }
+ }

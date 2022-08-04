@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 #import <XCTest/XCTest.h>
-#import <NSOperationQueue_CompletionBlock/NSOperationQueue+CompletionBlock.h>
+#import <NSOperationQueue+CompletionBlock/NSOperationQueue+CompletionBlock.h>
 
 @interface NSOperationQueue_CompletionBlockTests : XCTestCase
 

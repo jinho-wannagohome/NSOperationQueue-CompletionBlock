@@ -15,9 +15,5 @@ let package = Package(
             name: "NSOperationQueue-CompletionBlock",
             dependencies: [],
             path: "NSOperationQueue+CompletionBlock"),
-        .testTarget(
-            name: "NSOperationQueue-CompletionBlockTests",
-            dependencies: ["NSOperationQueue-CompletionBlock"],
-            path: "NSOperationQueue+CompletionBlockTests"),
     ]
 )
